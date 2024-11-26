@@ -14,14 +14,6 @@
 
 ---
 
-## 📂 Featured Projects:
-- 🛠️ [Payment Gateway Integration](https://github.com/yourusername/payment-gateway)  
-  *Description*: Developed a service for processing payments using Laravel.
-- 🗂️ [Customer Management API](https://github.com/yourusername/customer-api)  
-  *Description*: Built a secure and scalable RESTful API for managing customer data.
-
----
-
 ## 🔗 Get in Touch:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/van-aslanian)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aslanyanvanik@gmail.com)
