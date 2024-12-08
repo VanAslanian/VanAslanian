@@ -1,5 +1,5 @@
 # Hello! I'm [Van] 👋
-### 🖥️ Backend Developer | 💡 Laravel Specialist | 🐧 Linux Advocate
+### 🖥️ Backend Developer | 💡 Laravel Specialist 
 
 ---
 
